@@ -1,4 +1,4 @@
-# tracking-es6
+# es7-features
 ES7 is the upcoming evolution of the ECMA-262 standard(commonly referred as Javascript).
 
 >You can check [Understanding ES6](https://github.com/sgaurav/understanding-es6) for easy examples on ES6.
